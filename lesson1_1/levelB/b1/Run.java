@@ -1,4 +1,4 @@
-package lesson1_1.levelA.a1;
+package lesson1_1.levelB.b1;
 
 public class Run {
     public static void main(String[] args) {
