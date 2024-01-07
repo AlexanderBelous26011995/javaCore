@@ -5,6 +5,6 @@ package lesson1_2.levelC.c1;
  */
 public class Run {
     public static void main(String[] args) {
-        Run MyLinkType = null;
+        MyLinkType MyLinkType = new MyLinkType();
     }
 }

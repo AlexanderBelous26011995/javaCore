@@ -8,8 +8,8 @@ package lesson1_2.levelC.c2;
  */
 public class Run {
     public static void main(String[] args) {
-        Enum manthValue = Enum.January;
-        switch (manthValue) {
+        Enum manthValue = new Enum();
+        switch (manthValue.January) {
             case February:
                 System.out.println("Зима");
                 break;
